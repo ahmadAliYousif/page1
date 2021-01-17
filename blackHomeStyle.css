@@ -1,0 +1,47 @@
+ 
+.black.body{
+  background-color: black;
+  margin-left:50px ;
+}
+ 
+.black.nav p {
+    
+  color: rgb(255, 255, 255);
+  
+}
+.black.nav ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: rgb(128, 119, 119);
+}
+.black.nav ul li a.active {
+  color: rgb(255, 255, 255);
+}
+.black.span.textReadMore {
+  background-color: rgb(63, 58, 58);
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 13px;
+  color: rgb(255, 255, 255);
+  padding-left: 4px;
+  font-weight: 300;
+  padding-right: 4px;
+  padding-top: 3px;
+  padding-bottom: 4px;
+}
+.black.p.headStyle {
+  font-size: 25px;
+  color: #ffff;
+}
+.black.hr {
+  border: .5px solid rgb(56, 55, 55);
+  margin-bottom: 8px;
+  margin-top: 15px;
+}
+.black.blockquote h5:after {
+  content: close-quote;
+  font-weight: bold;
+  font-size: 35px;
+  color: gray;
+  margin-left: 180px;
+}
